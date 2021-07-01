@@ -4,7 +4,7 @@
 
 <!--Short Descriptive Para-->
 <p align="center">
-    <img width="450px" height="350px" src="https://i.gifer.com/JXA0.gif">
+    <img width="450px" height="350px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg">
 <br> 
 <font face = "Comic sans MS" size ="3.5">
     I'm a beginner in Computer Science and trying to expand my horizon in this industry day-by-day. I am an enthusiastic girl looking to design some great products. I am currently pursuing B.E. in Computer Science Engineering at 
