@@ -3,7 +3,7 @@
 
 
 <!--Short Descriptive Para-->
-<p class="aligncenter">
+<p align="center">
     <img width="450px" height="350px" src="https://i.gifer.com/JXA0.gif">
 <br> 
 <font face = "Comic sans MS" size ="3.5">
@@ -11,12 +11,7 @@
     <a href="http://www.thapar.edu/">Thapar Institute of Engineering and Technology</a>.
 </font>    
 </p>
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
-<br>
+
 
 
 <!--Learnings-->
