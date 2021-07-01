@@ -1,18 +1,14 @@
 <!--Greetings-->
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b><a href="https://www.linkedin.com/in/taranpreet-kaur-dhiman-64baab1b6/" target="_blank">Taranpreet Kaur</a></b> !</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarandhiman" alt="Taran's profile views"></p>
 
 
 <!--Short Descriptive Para-->
 <p align="center">
     <img width="450px" height="350px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg">
 <br> 
-<font face = "Comic sans MS" size ="3.5">
-    I'm a beginner in Computer Science and trying to expand my horizon in this industry day-by-day. I am an enthusiastic girl looking to design some great products. I am currently pursuing B.E. in Computer Science Engineering at 
-    <a href="http://www.thapar.edu/">Thapar Institute of Engineering and Technology</a>.
-</font>    
+I'm a beginner in Computer Science and trying to expand my horizon in this industry day-by-day. I am an enthusiastic girl looking to design some great products. I am currently pursuing B.E. in Computer Science Engineering at <a href="http://www.thapar.edu/">Thapar Institute of Engineering and Technology</a>.   
 </p>
-
-
 
 <!--Learnings-->
 ## 🙋 About Me:
@@ -43,35 +39,29 @@
 
 <!-- GITHUB STATISTICS-->
 ## 📊 My Github Stats:
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=thetarandhiman&theme=gruvbox_duo)](https://github.com/DenverCoder1/github-readme-streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetarandhiman&show_icons=true&theme=gruvbox)
+<a href="https://github.com/thetarandhiman">
 
-<!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+<img alt="Taran's GitHub stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=thetarandhiman&show_icons=true&theme=gruvbox">
 
-  <!-- <a href="https://github.com/thetarandhiman/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-
-<!--Contribution Graph:-
-
-<a href="https://github.com/thetarandhiman/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
--->
-
-<br/>
-
+<img alt="Taran's Streak stats" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thetarandhiman&theme=gruvbox_duo">
+  
+<img alt="Taranpreet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thetarandhiman&bg_color=0D1117&color=E47F2D&line=FE920D&point=3D9C57&hide_border=true"></a>
+ 
+<!--  <img width="1500" height="auto" align="center" alt="Taran's stats" src="https://github-profile-trophy.vercel.app/?username=thetarandhiman&row=1&column=7&theme=gruvbox&margin-w=15e" /> -->
+<br>
+<br>
 
 <!--Contact Part-->
 ## 😇 Connect with me:
-<p align="left">
 
+<p align="center">
  <a href = "https://www.linkedin.com/in/taranpreet-kaur-dhiman-64baab1b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  <a href = "mailto:taranpreet391@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail-new.png"/><a>
- <a href = "https://dev.to/thetarandhiman"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+ <a href = "https://dev.to/thetarandhiman"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="50" width="50"/></a>
  <a href = "https://twitter.com/taranpreet391"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
- <a href = "https://www.instagram.com/thetarandhiman/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
+ <a href = "https://www.instagram.com/thetarandhiman/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"></a>
  <!-- <a href = ""><img src="https://img.icons8.com/plumpy/24/000000/medium-logo.png"/></a> -->
  <!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> -->
-
 </p>
-
-<!--Views and Followers Column-->
 
 <!--The end of Readme.md-->
