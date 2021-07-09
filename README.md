@@ -4,11 +4,9 @@
 
 
 <!--Short Descriptive Para-->
-<p align="center">
-    <img width="450px" height="350px" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg">
-<br> 
+<img width="450px" align="left" height="350px" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
+<br>
 I'm a beginner in Computer Science and trying to expand my horizon in this industry day-by-day. I am an enthusiastic girl looking to design some great products. I am currently pursuing B.E. in Computer Science Engineering at <a href="http://www.thapar.edu/">Thapar Institute of Engineering and Technology</a>.   
-</p>
 
 <!--Learnings-->
 ## 🙋 About Me:
@@ -21,7 +19,6 @@ I'm a beginner in Computer Science and trying to expand my horizon in this indus
 - 😄 Fun fact: I can vibe on Punjabi songs alongwith Bhangra well.
 <!-- - All my projects will be available at **[My Portfolio]()**-->
 <!-- - How to reach me: <a href="mailto:taranpreet391@gmail.com">taranpreet391@gmail.com</a> -->
-
 ## 🚀 Languages and Tools I use:
 
 <p align="center"> 
