@@ -57,7 +57,7 @@ I'm a beginner in Computer Science and trying to expand my horizon in this indus
  <a href = "https://dev.to/thetarandhiman"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="50" width="50"/></a>
  <a href = "https://twitter.com/taranpreet391"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
  <a href = "https://www.instagram.com/thetarandhiman/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"></a>
- <!-- <a href = ""><img src="https://img.icons8.com/plumpy/24/000000/medium-logo.png"/></a> -->
+<a href = "https://thetarandhiman.medium.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZTZ-PuYuan4UuNP41cJv07B-lUe9wVBhWw&usqp=CAU" height="40" width="50"></a>
  <!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> -->
 </p>
 
