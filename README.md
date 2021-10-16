@@ -16,15 +16,18 @@ I'm a beginner in Computer Science and trying to expand my horizon in this indus
 - 👩‍💻 Increasing my expertise in **WebDevelopment**
 - 🙏🏻 Looking to collaborate on **OpenSource Projects**
 - 👩 Pronouns: She/her
-- 😄 Fun fact: I can vibe on Punjabi songs alongwith Bhangra well.
+<!-- - 😄 Fun fact: I can vibe on Punjabi songs alongwith Bhangra well. -->
 <!-- - All my projects will be available at **[My Portfolio]()**-->
 <!-- - How to reach me: <a href="mailto:taranpreet391@gmail.com">taranpreet391@gmail.com</a> -->
+<br>
+
 ## 🚀 Languages and Tools I use:
 
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
     <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>      
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
@@ -58,7 +61,7 @@ I'm a beginner in Computer Science and trying to expand my horizon in this indus
  <a href = "https://dev.to/thetarandhiman"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="50" width="50"/></a>
  <a href = "https://twitter.com/taranpreet391"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
  <a href = "https://www.instagram.com/thetarandhiman/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"></a>
-<!-- <a href = "https://thetarandhiman.medium.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZTZ-PuYuan4UuNP41cJv07B-lUe9wVBhWw&usqp=CAU" height="40" width="50"></a> -->
+ <a href = "https://thetarandhiman.medium.com/"><img src="https://img.icons8.com/plumpy/48/000000/medium-logo.png"/></a>
  <!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> -->
 </p>
 
