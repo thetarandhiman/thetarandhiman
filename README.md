@@ -4,8 +4,7 @@
 
 
 <!--Short Descriptive Para-->
-<img width="450px" align="left" height="350px" src="https://cdn.dribbble.com/users/876183/screenshots/4178051/_______.gif">
-<br>
+<img width="450px" align="left" height="350px" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
 I'm a beginner in Computer Science and trying to expand my horizon in this industry day-by-day. I am an enthusiastic girl looking to design some great products. I am currently pursuing B.E. in Computer Science Engineering at <a href="http://www.thapar.edu/">Thapar Institute of Engineering and Technology</a>.   
 
 <!--Learnings-->
