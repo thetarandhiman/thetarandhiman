@@ -1,8 +1,7 @@
 <!--Greetings-->
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b><a href="https://www.linkedin.com/in/taranpreet-kaur-dhiman-64baab1b6/" target="_blank">Taranpreet Kaur</a></b> !</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarandhiman" alt="Taran's profile views"></p>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarandhiman" alt="Taran's profile views">
+<br>  
 <!--Short Descriptive Para-->
 <img width="450px" align="left" height="350px" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
 I'm a beginner in Computer Science and trying to expand my horizon in this industry day-by-day. I am an enthusiastic girl looking to design some great products. I am currently pursuing B.E. in Computer Science Engineering at <a href="http://www.thapar.edu/">Thapar Institute of Engineering and Technology</a>.   
@@ -11,7 +10,7 @@ I'm a beginner in Computer Science and trying to expand my horizon in this indus
 ## 🙋 About Me:
 <!-- - I’m currently working on **[My Portfolio Website](https://github.com/thetarandhiman/PortfolioSite)**-->
 - 💻 Currently working on **Data Structures and Algorithms**.
-- 📝 Currently learning: **Javascript & C++** 
+- 📝 Currently learning: **React & DS in C++** 
 - 👩‍💻 Increasing my expertise in **WebDevelopment**
 - 🙏🏻 Looking to collaborate on **OpenSource Projects**
 - 👩 Pronouns: She/her
@@ -59,7 +58,8 @@ I'm a beginner in Computer Science and trying to expand my horizon in this indus
  <a href = "mailto:taranpreet391@gmail.com"><img src="https://img.icons8.com/color/50/000000/gmail-new.png"/><a>
  <a href = "https://dev.to/thetarandhiman"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="50" width="50"/></a>
  <a href = "https://twitter.com/taranpreet391"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
- <a href = "https://www.instagram.com/thetarandhiman/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"></a>
+ <a href = "https://dribbble.com/thetarandhiman"><img src="https://img.icons8.com/fluency/48/000000/dribbble.png"/></a>
+<!--  <a href = "https://www.instagram.com/thetarandhiman/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"></a> -->
  <a href = "https://thetarandhiman.medium.com/"><img src="https://img.icons8.com/plumpy/48/000000/medium-logo.png"/></a>
  <!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a> -->
 </p>
