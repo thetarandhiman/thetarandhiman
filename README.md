@@ -1,6 +1,6 @@
 <!--Greetings-->
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b><a href="https://www.linkedin.com/in/taranpreet-kaur-dhiman-64baab1b6/" target="_blank">Taranpreet Kaur</a></b> !</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarandhiman" alt="Taran's profile views">
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarandhiman" alt="Taran's profile views"> -->
 <br>  
 <!--Short Descriptive Para-->
 <img width="450px" align="left" height="350px" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
