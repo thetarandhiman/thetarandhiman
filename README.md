@@ -10,7 +10,7 @@ I'm a beginner in Computer Science and trying to expand my horizon in this indus
 ## 🙋 About Me:
 <!-- - I’m currently working on **[My Portfolio Website](https://github.com/thetarandhiman/PortfolioSite)**-->
 - 💻 Currently working on **Data Structures and Algorithms**.
-- 📝 Currently learning: **React & DS in C++** 
+- 📝 Currently learning: **NodeJS & DS in C++** 
 - 👩‍💻 Increasing my expertise in **WebDevelopment**
 - 🙏🏻 Looking to collaborate on **OpenSource Projects**
 - 👩 Pronouns: She/her
